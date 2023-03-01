@@ -1,0 +1,15 @@
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\Урок 5. Функции и одномерные массивы.exe
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\Урок 5. Функции и одномерные массивы.deps.json
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\Урок 5. Функции и одномерные массивы.runtimeconfig.json
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\Урок 5. Функции и одномерные массивы.dll
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\Урок 5. Функции и одномерные массивы.pdb
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.csproj.AssemblyReference.cache
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.AssemblyInfoInputs.cache
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.AssemblyInfo.cs
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.csproj.CoreCompileInputs.cache
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.dll
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\refint\Урок 5. Функции и одномерные массивы.dll
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.pdb
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\Урок 5. Функции и одномерные массивы.genruntimeconfig.cache
+C:\Users\Лина\OneDrive\Рабочий стол\Task 5\Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\ref\Урок 5. Функции и одномерные массивы.dll
